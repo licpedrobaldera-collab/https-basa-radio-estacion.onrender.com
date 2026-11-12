@@ -1,0 +1,7 @@
+{
+  "name": "BASA AUDIO VISUAL V11 ULTRA",
+  "description": "Suite de producción audiovisual y musical 24/7 de Lic. Pedro Baldera x El Forense en Los Frailes, RD. Radio en vivo, generador Crew 4 IA para 23 géneros dominicanos, catálogo y distribución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
